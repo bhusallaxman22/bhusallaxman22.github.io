@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+.name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin-top: 20%;
+    font-weight: 600;
+    font-size: xx-large;
+    font-family: cursive;
+}
+.profile{
+    display: flex;
+    top: 0em;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    font-size: 28px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+li{
+    display: inline;
+    margin-right: 10px;
+}
